@@ -6,7 +6,7 @@
     width: 400px;
     height: auto;
     border: 2px rgb(48, 42, 165) solid;
-    border-radius: 10px;
+    border-radius: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -21,7 +21,7 @@
     margin-top: 20px;
     border-radius: 50%;
     border: 2px rgb(48, 42, 165) solid;
-    background-color: rgb(195, 222, 135);
+    background-color: rgb(195, 228, 122);
 }
 
 .avatar:hover {
@@ -67,7 +67,7 @@
 
 
 .quantity {
-    color: rgb(147, 242, 22);
+    color: rgb(115, 190, 17);
     font-size: 20px;
 }
 
