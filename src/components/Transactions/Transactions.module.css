@@ -1,0 +1,39 @@
+.transactionHistory {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ccc;
+    color: #3f3f3f;
+}
+
+th,
+td {
+    border: 1px rgb(48, 42, 165) solid;
+    padding: 10px;
+
+}
+
+
+th {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+tr {
+    background-color: whitesmoke;
+
+}
+
+th:hover {
+    background-color: azure;
+}
+
+td:hover {
+    background-color: wheat;
+}
+
+table td:first-child {
+    text-transform: uppercase;
+    color: rgb(42, 36, 149);
+    font-weight: 600;
+}
